@@ -1,7 +1,7 @@
 {
   "name": "Rory",
   "version": "0.1.0",
-  "homepage": "https://rorysweeney99.github.io/Rorysweeney99.github.io",
+  "homepage": "https://rorysweeney99.github.io/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",
